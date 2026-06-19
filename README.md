@@ -51,6 +51,7 @@
 
 학습·참고용 완성 프로젝트.
 
+- [gjh999/portal-site-boot](https://github.com/gjh999/portal-site-boot) - eGovFrame 5.0 포털사이트를 Spring Boot 3.5 + Thymeleaf로 전환한 참조 프로젝트.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ## ■ 학습 자료
