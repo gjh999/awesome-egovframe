@@ -37,7 +37,7 @@
 
 빠른 시작을 위한 프로젝트 골격.
 
-- *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
+- [gjh999/simple-home-boot](https://github.com/gjh999/simple-home-boot) - eGovFrame 5.0 + Spring Boot·Thymeleaf 심플 홈페이지 출발 코드베이스(JWT·KRDS·내장 HSQLDB).
 
 ### 개발 도구
 
