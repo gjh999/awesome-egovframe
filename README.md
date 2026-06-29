@@ -35,13 +35,15 @@
 
 ### 템플릿 / 보일러플레이트
 
-빠른 시작을 위한 프로젝트 골격.
+빠른 시작을 위한 기반 프로젝트 템플릿.
 
+- [gjh999/simple-home-boot](https://github.com/gjh999/simple-home-boot) - eGovFrame 5.0 + Spring Boot·Thymeleaf 심플 홈페이지 출발 코드베이스(JWT·내장 HSQLDB).
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 개발 도구
 
 - [leejongyoung/homebrew-egovframe](https://github.com/leejongyoung/homebrew-egovframe) - 표준프레임워크 macOS 개발환경 설치용 Homebrew Tap (이후 공식 편입, 위 [기여 사례](#-커뮤니티-기여-사례) 참고).
+- *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 통합 / 연동
 
@@ -51,7 +53,9 @@
 
 학습·참고용 완성 프로젝트.
 
+- [gjh999/portal-site-boot](https://github.com/gjh999/portal-site-boot) - eGovFrame 5.0 포털사이트를 Spring Boot 3.5 + Thymeleaf로 전환한 참조 프로젝트.
 - [gjh999/enterprise-biz-boot](https://github.com/gjh999/enterprise-biz-boot) - 전자정부 표준프레임워크 5.0 기업업무 관리자 콘솔(코드·메뉴·프로그램·로그·통계)을 Spring Boot+Thymeleaf로 구현한 예제.
+- *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ## ■ 학습 자료
 
