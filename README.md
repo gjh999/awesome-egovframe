@@ -31,6 +31,7 @@
 
 표준프레임워크에 끼워 쓸 수 있는 컴포넌트.
 
+- [gjh999/common-components-boot](https://github.com/gjh999/common-components-boot) - eGovFrame 5.0 공통 컴포넌트(회원·게시판·코드·권한 등)를 Spring Boot 3.5 + Thymeleaf로 전환한 프로젝트.
 - *(여기에 개인 또는 커뮤니티가 만든 프로젝트 링크를 기재하여 PR 하면 검토 후 등재됩니다)*
 
 ### 템플릿 / 보일러플레이트
